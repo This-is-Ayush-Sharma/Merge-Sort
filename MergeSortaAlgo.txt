@@ -2,7 +2,7 @@
 [lb:-lower bound and ub is upper bound]
 Merging(a,lb1,ub1,b,lb2,ub2,c,lb3,ub3)
 Step 1: Start
-Step 2: let i=lb1,j=lb2,k=0
+Step 2: let i=lb1,j=lb2,k=0https://github.com/This-is-Ayush-Sharma/Merge-Sort/blob/main/MergeSortaAlgo.txt
 Step 3: while (i<ub1 AND j<ub2)
 Step 3.1: if (a[i] < b[j])
 Step 3.1.1:  c[k] = a[i]
@@ -21,7 +21,7 @@ Step 5:while(j < ub2)
 	Step 5.2: k=k+1,j=j+1
 [end of while]
 Step 6: lb3=0,ub3=k
-Step 7: display “the sorted values are:-“
+Step 7: display "the sorted values are:-"
 Step 8:for (i =lb3 to ub3-1) inc 1
 	Step7.1 display c[i]
 Step 9: Stop
